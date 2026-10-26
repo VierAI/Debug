@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "VierAI",
+    "Name": "VierLink Remote",
+    "InternalName": "VierLinkRemote",
+    "AssemblyVersion": "0.1.1.1",
+    "Description": "Lets a person you invite (viewed through their automated assistant) see how they and your synced pairs render on your client, to debug outfit and mod sync. Starts disabled. Read only: sync state, mod counts, equipped item names, Customize+ on/off. No chat, no file paths. Connects out only; never listens. Nothing is stored on your disk.\n\nAI generated code.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Tools",
+      "AI"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Read-only, opt-in sync-debug snapshots for one invited viewer (AI generated code).",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/VierAI/Debug",
+    "Changelog": "0.1.1.1: Build metadata cleanup (no repository URL embedded). 0.1.1.0: New disclaimer, consent asked again (scope v2): live sessions and exports are read by the token owner's automated analysis assistant, and only its findings, with no names, go to the owner's other bots. Viewer plugin retired. AI generated code.",
+    "DownloadLinkInstall": "https://github.com/VierAI/Debug/releases/download/v0.1.1.1/VierLinkRemote-0.1.1.1.zip",
+    "DownloadLinkUpdate": "https://github.com/VierAI/Debug/releases/download/v0.1.1.1/VierLinkRemote-0.1.1.1.zip",
+    "DownloadLinkTesting": "https://github.com/VierAI/Debug/releases/download/v0.1.1.1/VierLinkRemote-0.1.1.1.zip",
+    "LastUpdate": 1792995452
+  }
+]
