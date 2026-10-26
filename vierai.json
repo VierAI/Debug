@@ -3,7 +3,7 @@
     "Author": "VierAI",
     "Name": "VierLink Remote",
     "InternalName": "VierLinkRemote",
-    "AssemblyVersion": "0.1.1.3",
+    "AssemblyVersion": "0.1.1.4",
     "Description": "Lets the token owner's AI assistant, through a session token you accept, see how the owner and your synced pairs render on your client, to debug outfit and mod sync. Starts disabled. Read only: sync state, mod counts, equipped item names, Customize+ on/off. No chat, no file paths. Connects out only; never listens. Nothing is stored on your disk.\n\nAI generated code.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,10 +18,10 @@
     "Punchline": "Read-only, opt-in sync-debug snapshots for one invited viewer (AI generated code).",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/VierAI/Debug",
-    "Changelog": "0.1.1.3: Description now says the token owner's AI assistant views the session. 0.1.1.2: New disclaimer, consent asked again (scope v3): an AI assistant requests and processes the captured data and no human takes part in the debug process; snapshots are kept on the owner's computer for up to 24 hours. AI generated code.",
-    "DownloadLinkInstall": "https://github.com/VierAI/Debug/releases/download/v0.1.1.3/VierLinkRemote-0.1.1.3.zip",
-    "DownloadLinkUpdate": "https://github.com/VierAI/Debug/releases/download/v0.1.1.3/VierLinkRemote-0.1.1.3.zip",
-    "DownloadLinkTesting": "https://github.com/VierAI/Debug/releases/download/v0.1.1.3/VierLinkRemote-0.1.1.3.zip",
-    "LastUpdate": 1793000364
+    "Changelog": "0.1.1.4: The viewer can ask for just part of a snapshot (some players or sections); it can never ask for more than before or turn on Reveal, and you still preview before Send. 0.1.1.3: Description now says the token owner's AI assistant views the session. 0.1.1.2: New disclaimer, consent asked again (scope v3): an AI assistant requests and processes the captured data and no human takes part in the debug process; snapshots are kept on the owner's computer for up to 24 hours. AI generated code.",
+    "DownloadLinkInstall": "https://github.com/VierAI/Debug/releases/download/v0.1.1.4/VierLinkRemote-0.1.1.4.zip",
+    "DownloadLinkUpdate": "https://github.com/VierAI/Debug/releases/download/v0.1.1.4/VierLinkRemote-0.1.1.4.zip",
+    "DownloadLinkTesting": "https://github.com/VierAI/Debug/releases/download/v0.1.1.4/VierLinkRemote-0.1.1.4.zip",
+    "LastUpdate": 1793000736
   }
 ]
